@@ -1,0 +1,25 @@
+body{
+/*
+    background-color: aqua;
+    background-image: url(img/1.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+*/
+    background: #058d29 url(img/1.jpg) no-repeat top;
+}
+#page{
+    width: 1000px;
+    margin: 0 auto;
+<-- )-->
+}
+.strong-red{
+    margin-top: 50px;
+    color: black;
+    font-weight: bolder;
+    text-align: justify;
+    te
+}
+.strong-light{
+    color:blue;
+    font-weight: lighter;
+}
